@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl  # Excelファイル読み込み用
